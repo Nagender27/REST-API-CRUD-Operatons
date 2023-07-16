@@ -6,7 +6,7 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
 @Entity
-@Table(name="Cloud_vendor_infor")
+@Table(name="Cloud_vendor_info")
 public class CloudVendor {
     @Id
     private String vendorId;

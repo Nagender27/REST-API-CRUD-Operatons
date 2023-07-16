@@ -1,8 +1,8 @@
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/mydb?useSSL=true
-    username: root
-    password: Nenu@1997
+    username: xxxx
+    password: xxxx
 
 
 #JPA Settings
